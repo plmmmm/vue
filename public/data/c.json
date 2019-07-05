@@ -1,0 +1,83 @@
+[
+    {
+        "use":"言叶之庭",
+        "synopsis":"每到落雨之日便从世俗的烦恼中逃脱出来",
+        "sum":998.00,
+        "num":199.88,
+        "nik":"../assets/img/m1.jpg",
+        "netname":"新品"
+    },
+    {
+        "use":"秒速五厘米",
+        "synopsis":"如果，樱花掉落的速度是每秒5厘米，那么两颗心需要多久才能靠近",
+        "sum":1998.00,
+        "num":999.88,
+        "nik":"../assets/img/s1 (3).jpg",
+        "netname":"热卖"
+    },
+    {
+        "use":"你的名字",
+        "synopsis":"总是看着身后比你更远的地方。不知不觉那就成了我们的距离",
+        "sum":998.00,
+        "num":199.88,
+        "nik":"../assets/img/s1 (5).jpg",
+        "netname":"新品"
+    },
+    {
+        "use":"千与千寻",
+        "synopsis":"可即使我只看着你，你也变成那些距离我越来越远的事！",
+        "sum":2998.23,
+        "num":499.88,
+        "nik":"../assets/img/s1 (7).jpg",
+        "netname":"热卖"    
+    },
+    {
+        "use":"猫的报恩",
+        "synopsis":"如果我爱你",
+        "sum":998.00,
+        "num":199.88,
+        "nik":"../assets/img/m1.jpg",
+        "netname":"新品"
+    },
+    {
+        "use":"萤火之森",
+        "synopsis":"绝不会像攀缘的凌霄花",
+        "sum":998.98,
+        "num":199.88,
+        "nik":"../assets/img/m2.png",
+        "netname":"新品"
+    },
+    {
+        "use":"穿越时空的少女",
+        "synopsis":"借你的高枝炫耀自己 ",
+        "sum":998.00,
+        "num":199.88,
+        "nik":"../assets/img/m3.jpeg",
+        "netname":"热卖"
+    },
+    {
+        "use":"借东西的小人阿莉埃蒂",
+        "synopsis":"大甩卖 你买不了吃亏",
+        "sum":2111.55,
+        "num":666.88,
+        "nik":"../assets/img/m4.jpeg",
+        "netname":"热卖"
+    },
+    {
+        "use":"侧耳倾听",
+        "synopsis":"你值得拥有",
+        "sum":998.00,
+        "num":199.88,
+        "nik":"../assets/img/s1 (4).jpg",
+        "netname":"新品"
+    },
+    {
+        "use":"天空之城",
+        "synopsis":"买了你就开心了！",
+        "sum":2998.00,
+        "num":996.66,
+        "nik":"../assets/img/s1 (5).jpg",
+        "netname":"新品"
+    }
+    
+]
